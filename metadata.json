@@ -1,6 +1,0 @@
-{
-  "name": "Los Bacas AI Migration Engine",
-  "description": "Plataforma inteligente de migración y traducción de código impulsada por IA, con cálculo de CodeBLEU, métricas de latencia y gestión avanzada de snippets.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
